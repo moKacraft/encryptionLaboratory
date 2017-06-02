@@ -70,5 +70,18 @@ AESpic.jpg
 bobAES.jceks
 encrypt.log
 encrypted
+FreeBSD.iso
+PGPpic.jpg
+pic.jpg
+pic.jpg.AES
+pic.jpg.PGP
+pub.asc
+secondUserPGP.jceks
+secret.asc
+setup.exe
+test.jpg
+totoPGP.jceks
+truc
+ubuntu.iso
 
 # End of https://www.gitignore.io/api/intellij
