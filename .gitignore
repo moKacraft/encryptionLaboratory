@@ -83,5 +83,6 @@ test.jpg
 totoPGP.jceks
 truc
 ubuntu.iso
+pgp.properties
 
 # End of https://www.gitignore.io/api/intellij
